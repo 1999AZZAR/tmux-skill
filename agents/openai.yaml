@@ -1,0 +1,4 @@
+interface:
+  display_name: "Tmux Controller"
+  short_description: "Remote control tmux sessions for interactive CLI operations."
+  default_prompt: "Start a new tmux session."
